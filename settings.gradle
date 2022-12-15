@@ -8,3 +8,4 @@
  */
 
 rootProject.name = 'ArhivatorRLE'
+include('app')
